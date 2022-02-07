@@ -1,5 +1,3 @@
 # animated-computing-machine
 
-Yo c'est Max
-Test
-test
+Je suis à l'ECE
